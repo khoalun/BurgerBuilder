@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This app is made with React, Redux to increase or decrease each food in order .
-![This is an image of project!](Capture.jpg)
+![This is an image](Capture.jpg)
 
 ## Available Scripts
 
